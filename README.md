@@ -13,4 +13,4 @@
 - 4주차 : 인공지능과 비즈니스
 
 ### 수료증
-[Les's AI 2024 코칭스터디 수료증.pdf](https://github.com/user-attachments/files/16921327/Les.s.AI.2024.pdf)
+![Les's AI 2024 코칭스터디 수료증_page-0001](https://github.com/user-attachments/assets/7cfcb032-ce10-4d4a-b68a-51ae32012226)
