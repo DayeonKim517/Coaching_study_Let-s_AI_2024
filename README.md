@@ -1,4 +1,4 @@
-## 네이버 부스트코스 코칭스터디 Data_Science_Projects 2024
+## 네이버 부스트코스 코칭스터디 Let's AI 2024
 ![Les's AI 2024 배너](https://github.com/user-attachments/assets/9f375a6f-cb15-4f70-a7a7-8238e9f63ebb)
 
 
